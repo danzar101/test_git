@@ -5,4 +5,4 @@
                    'data'=>array('formatOption'=>'js:this.value','templateOption'=>'js:Unit_templateOption.value','serverUrl'=>'js:Unit__urlOption.value'),
                    'update'=>'#response_line',
                            ),
-               'class'=>'span10'));eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+               'class'=>'span10'));eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeefsadddddddddddddddddddddddddddddddddddd
