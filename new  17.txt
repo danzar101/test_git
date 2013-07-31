@@ -1,8 +1,3 @@
-   array(
-               'ajax'=>array(
-                   'type'=>'POST',
-                   'url'=>CController::createUrl('unit/fillTemplateFields'),
-                   'data'=>array('formatOption'=>'js:this.value','templateOption'=>'js:Unit_templateOption.value','serverUrl'=>'js:Unit__urlOption.value'),
-                   'update'=>'#response_line',
-                           ),
-               'class'=>'span10'));
+This is just the test_branch version.
+
+This is the Develop version of this file.
